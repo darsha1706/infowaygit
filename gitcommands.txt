@@ -1,5 +1,8 @@
+git --version 
 git init - initialise and reinitialise git
 
 $ git add demo.html gitcommands.txt
 
 git status
+
+git commit -m "updated v"
